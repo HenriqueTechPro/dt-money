@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Freelancer de design gráfico",
+      "type": "income",
+      "category": "Serviços",
+      "price": 8000,
+      "createdAt": "2022-07-28T12:15:30.123Z"
+    },
+    {
+      "id": 3,
+      "description": "Venda de produto",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2022-07-27T14:20:00.000Z"
+    },
+    {
+      "id": 4,
+      "description": "Aluguel de escritório",
+      "type": "outcome",
+      "category": "Aluguel",
+      "price": 2000,
+      "createdAt": "2022-07-26T08:45:12.678Z"
+    },
+    {
+      "id": 5,
+      "description": "Compra de suprimentos de escritório",
+      "type": "outcome",
+      "category": "Material de escritório",
+      "price": 300,
+      "createdAt": "2022-07-25T16:30:00.000Z"
+    },
+    {
+      "id": 6,
+      "description": "Consultoria financeira",
+      "type": "income",
+      "category": "Consultoria",
+      "price": 2000,
+      "createdAt": "2022-07-24T10:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "description": "Despesas de viagem",
+      "type": "outcome",
+      "category": "Viagem",
+      "price": 1000,
+      "createdAt": "2022-07-23T09:20:00.000Z"
+    },
+    {
+      "id": 8,
+      "description": "Comida",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 150,
+      "createdAt": "2022-07-22T13:40:00.000Z"
+    },
+    {
+      "id": 9,
+      "description": "Honorários advocatícios",
+      "type": "income",
+      "category": "Serviços",
+      "price": 4000,
+      "createdAt": "2022-07-21T17:50:00.000Z"
+    },
+    {
+      "id": 10,
+      "description": "Pagamento de conta de luz",
+      "type": "outcome",
+      "category": "Contas",
+      "price": 200,
+      "createdAt": "2022-07-20T20:10:00.000Z"
+    },
+    {
+      "description": "Fralda",
+      "price": 100,
+      "category": "Bebe",
+      "type": "outcome",
+      "createdAt": "2024-01-31T00:30:28.003Z",
+      "id": 11
+    }
+  ]
+}
